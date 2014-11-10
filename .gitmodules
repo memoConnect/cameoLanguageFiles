@@ -1,0 +1,3 @@
+[submodule "cameoXliffTools"]
+	path = cameoXliffTools
+	url = ../cameoXliffTools.git
