@@ -1,0 +1,792 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+        <file original="de.json" datatype="plaintext" source-language="de">
+          <body>
+          <trans-unit id="seo.description">
+      <source>
+        Erste integrierte mailing und messaging app: einfach, sicher, offen. Funktioniert auf dem Smartphone, dem Tablet und dem Desktop. F&amp;uml;r Privat- und Gesch&amp;auml;ftskunden
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.platforms.checkbox.mac">
+      <source>
+        Mac OS
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row7.col1">
+      <source>
+        &lt;div class=\4u green-checkmark\&gt;&amp;#x2713&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="contact.success">
+      <source>
+        Das abschicken war erfolgreich.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link01.sub03">
+      <source>
+        Business
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row9.col1">
+      <source>
+        &lt;div class=\4u \&gt;in Vorbereitung&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.platforms.checkbox.ios">
+      <source>
+        iOS
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row1.header">
+      <source>
+        &lt;div class=\4u row-label\&gt;Ende-zu-Ende-Verschlüsselung&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link05.sub01">
+      <source>
+        Presse 1
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature03.header">
+      <source>
+        Dokumentenechtheit -  keine F&amp;auml;lschungen!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row2.header">
+      <source>
+        &lt;div class=\4u row-label\&gt;Open Source (&lt;a target=\_blank\ href=\https://github.com/memoConnect\&gt;github&lt;/a&gt;)&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row2.col2">
+      <source>
+        &lt;div class=\4u\&gt;wenige&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.text">
+      <source>
+        
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature05.text">
+      <source>
+        Einfache Integration externer Kunden in Kommunikation.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.language.select">
+      <source>
+        Sprache w&amp;auml;hlen
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.what-about-files.text">
+      <source>
+        Mit cameoNet k&amp;ouml;nnen Sie auch sicher, einfach und unkompliziert Dateien versenden.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature07.text">
+      <source>
+        F&amp;uuml;r sichere Kommunikation auch bei Delegation oder Vertretung.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="contact.email">
+      <source>
+        E-Mail
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link02">
+      <source>
+        Business
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link01.sub02">
+      <source>
+        Pro
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="seo.title">
+      <source>
+        cameoNet: Verschl&amp;uuml;sselte Mailing und Messaging App
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row7.col2">
+      <source>
+        &lt;div class=\4u\&gt;einige&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="website.href">
+      <source>
+        https://www.cameonet.de
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row8.col1">
+      <source>
+        &lt;div class=\4u green-checkmark\&gt;&amp;#x2713&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="slider.slider04.image">
+      <source>
+        images/slider/business.png
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row9.header">
+      <source>
+        &lt;div class=\4u row-label\&gt;Besondere Funktionen für Organisationen&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.using.checkbox.private">
+      <source>
+        Privat
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature04.text">
+      <source>
+        Sch&amp;ouml;n, wenn man wei&amp;szlig;, mit wem man spricht.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="slider.slider01.text">
+      <source>
+        cameoNet: Einfach grenzenlos sicher kommunizieren!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.why-were-safe.header">
+      <source>
+        Warum ist cameoNet sicherer?
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature02.text">
+      <source>
+        Eindeutiges Profil und Adresse pro Mitarbeiter.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.platforms.checkbox.winphone">
+      <source>
+        Windows Phone
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature04.header">
+      <source>
+        Multi Identit&amp;auml;ten - richtig Auftreten!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.apps.header">
+      <source>
+        Demn&amp;auml;chst hier erh&amp;auml;ltlich!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.reset">
+      <source>
+        Formular zur&amp;uuml;cksetzen
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature02.text">
+      <source>
+        Keine Hintert&amp;uuml;ren, offengelegte Software.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature06.text">
+      <source>
+        Auch komplett anonyme Nutzung m&amp;ouml;glich.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.team.header">
+      <source>
+        Wer ist das Team hinter cameoNet?
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.platforms.checkbox.linux">
+      <source>
+        Linux
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature09.text">
+      <source>
+        Einfach Dokumente, Bilder und Videos teilen.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature09.header">
+      <source>
+        Pr&amp;auml;senzerkennung - in Reichweite!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="contact.reset">
+      <source>
+        Formular zur&amp;uuml;cksetzen
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row6.col2">
+      <source>
+        &lt;div class=\4u\&gt;einige&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="slider.slider01.image">
+      <source>
+        images/slider/secure.png
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.submit">
+      <source>
+        jetzt registrieren
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature08.text">
+      <source>
+        G&amp;uuml;nstige Pakete f&amp;uuml;r erweiterte Auslandskommunikation.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.how-to-sign-in.text">
+      <source>
+        Jeder kann sich völlig anonym und kostenlos &lt;a href=\#/a\&gt;hier&lt;/a&gt; anmelden. Zukünfitg wird es kostenpflichtige Versionen von cameoNet geben. Wer sich bis dahin anmeldet wird nach Einführung der kostenpflichtigen Versionen für ein Jahr diese kostenloss nutzen können.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row4.header">
+      <source>
+        &lt;div class=\4u row-label\&gt;Mehrere Identitäten&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.how-to-join-anonymous.text">
+      <source>
+        Sie k&amp;ouml;nnen sich ohne Mobilnummer oder Mailadresse anmelden. Nachteil ist, dass wir Ihnen nat&amp;uuml;rlich niemals Ihr Pa&amp;szlig;wort zur&amp;uuml;ckstellen k&amp;ouml;nnen, wenn Sie es verloren haben sollten.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="contact.submit">
+      <source>
+        Nachricht versenden
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row4.col1">
+      <source>
+        &lt;div class=\4u green-checkmark\&gt;&amp;#x2713&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link03">
+      <source>
+        Anmelden
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.who-is-behind.header">
+      <source>
+        Wer steht hinter cameoNet?
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row5.header">
+      <source>
+        &lt;div class=\4u row-label\&gt;Sicherer Gruppenchat&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature09.header">
+      <source>
+        Sicher Dateien versenden!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="contact.subject">
+      <source>
+        Betreff
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature05.text">
+      <source>
+        Auch SMS und EMail &amp;uuml;ber cameoNet direkt versenden.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row10.col2">
+      <source>
+        &lt;div class=\4u red-xmark\&gt;&amp;#x2717&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="unicode.checkmark">
+      <source>
+        &amp;#x2713;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="slider.slider02.image">
+      <source>
+        images/slider/alldevices.png
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link01.sub01">
+      <source>
+        Basic
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="partner.header">
+      <source>
+        cameoNet arbeiten zusammen mit diesen Partnern
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.header">
+      <source>
+        cameoNet im Vergleich mit Mitbewerbern
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row8.header">
+      <source>
+        &lt;div class=\4u row-label\&gt;Anonyme Nutzung&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="unicode.xmark">
+      <source>
+        &amp;#x2717;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.header">
+      <source>
+        Business
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row8.col2">
+      <source>
+        &lt;div class=\4u red-xmark\&gt;&amp;#x2717&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="contact.message">
+      <source>
+        Nachricht
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row4.col2">
+      <source>
+        &lt;div class=\4u red-xmark\&gt;&amp;#x2717&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.subject">
+      <source>
+        [Registrierungsformular]
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="contact.footer">
+      <source>
+        Kontakt via E-Mail (GnuPG): &lt;br/&gt;&lt;a href=\/w/static/resources/cameoNet_Support_0B9A34FB.asc\ target=\_blank\&gt;GnuGP Public Key: Support Team&lt;/a&gt;&lt;br/&gt;&lt;a href=\/w/static/resources/cameoNet_MichaelMerz_B1571958.asc\ target=\_blank\&gt;GnuGP Public Key: Michael Merz (GF)&lt;/a&gt;&lt;br/&gt;&lt;a href=\http://www.openpgp-schulungen.de/fuer/alle/\ target=\_blank\&gt;Informationen zu Sicherheit für E-Mails&lt;/a&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row6.header">
+      <source>
+        &lt;div class=\4u row-label\&gt;Werbefrei&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.col2.header">
+      <source>
+        Wettbewerber
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature08.text">
+      <source>
+        cameoNet Basic ist kostenlos und werbefrei.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature01.text">
+      <source>
+        Ende-zu-Ende Verschl&amp;uuml;sselung f&amp;uuml;r alle.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.header">
+      <source>
+        FAQ
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="slider.slider03.image">
+      <source>
+        images/slider/extern.png
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link05.sub03">
+      <source>
+        Presse 3
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.language.de">
+      <source>
+        de
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row9.col2">
+      <source>
+        &lt;div class=\4u red-xmark\&gt;&amp;#x2717&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row3.col2">
+      <source>
+        &lt;div class=\4u red-xmark\&gt;&amp;#x2717&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="dataprivacy.text">
+      <source>
+        &lt;h4&gt;Privacy Policy&lt;/h4&gt;cameoNet nimmt den Datenschutz sehr ernst. Wir bem&amp;uuml;hen uns, nur die absolut notwendigen Informationen f&amp;uuml;r kurze Zeit zu speichern. Alle Daten werden in &amp;Uuml;bereinstimmung mit den gesetzlichen Vorgaben der Bundesrepublik Deutschland behandelt, das sind unter anderem das Bundesdatenschutzgesetz (BDSG), das TMG und das TK&amp;Uuml;V.&lt;br/&gt;Die Erhebung, Verarbeitung und Nutzung der nachfolgenden beschriebenen Daten erfolgt, um cameoNet betreiben zu k&amp;ouml;nnen. Wir sind nicht daran interessiert, Nutzer zu profilieren, um Werbung zu schalten oder Nutzerprofile zu kommerziellen Zwecken zu erstellen. Die Abfrage von Daten erfolgt so sparsam wie m&amp;ouml;glich.&lt;br/&gt;&lt;h4&gt;Umgang mit Daten&lt;/h4&gt;cameoNet sammelt und nutzt Informationen, insbesondere in den folgenden Kategorien:&lt;br/&gt;(a) Daten zur Identifizierung (z. B. Name, Benutzername, Telefonnummer, Handynummer, E-Mail-Adresse); Es steht jedem Benutzer frei, ob er seine cameoNet ID mit einer E-Mail-Adresse oder Telefonnummer verkn&amp;uuml;pfen will. Auch ohne diese Verkn&amp;uuml;pfung bzw. anonym kann der Dienst genutzt werden, sofern cameoNet das anbietet.&lt;br/&gt;(b) Profilinformationen (z. B. bevorzugte Sprache und andere Informationen, die Sie anderen Nutzern im Rahmen Ihrer cameoNet –Identit&amp;auml;t zur Verf&amp;uuml;gung stellen).&lt;br/&gt;(c) Kommunikationsinhalte, Dateianlagen, Medien, Sprachnachrichten und Geodaten  werden auf unseren Servern gespeichert. Werden sie vom Nutzer verschl&amp;uuml;sselt &amp;uuml;bertragen, haben wir – insbesondere bei der asymmetrischen Verschl&amp;uuml;sselung - keine M&amp;ouml;glichkeit, die Daten zu entschl&amp;uuml;sseln. Dies gilt auch f&amp;uuml;r Dritte, die sich unerlaubter Weise Zugang zu unseren Servern verschaffen.&lt;br/&gt;Wir bieten unseren Nutzern an, den Dienst anonym bzw. unter Pseudonym zu nutzen, sofern m&amp;ouml;glich.&lt;br/&gt;Die Konversationen sind Eigentum der Nutzer bzw. des Gruppenadministrators (Gruppen Chat). cameoNet wertet keine Verbindungsdaten aus. Die Verbindungsdaten werden insbesondere nicht mit den pers&amp;ouml;nlichen Profilen der Nutzer abgeglichen oder angereichert. Verf&amp;uuml;gt der Nutzer oder Administrator &amp;uuml;ber ein Basic-Account, werden alle Verbindungsdaten und Konversationen, die &amp;auml;lter als 6 Monate sind, gel&amp;ouml;scht.&lt;br/&gt;&lt;h4&gt;Logfiles / keine IP-Adressen&lt;/h4&gt;Wenn die CameoNet-Internetseiten besucht werden, speichert unser Webserver bestimmte Daten in so genannten Logfiles. Diese Daten sind abh&amp;auml;ngig vom verwendeten Browser und Betriebssystem. Typischerweise geht es um die folgenden Daten.&lt;br/&gt;Browsertyp/-version, Betriebssystem, die Referrer URL (also die Internetadresse der zuvor besuchten Internetseite) und die Uhrzeit der Serveranfrage.&lt;br/&gt;Der Hostname des zugreifenden Rechners, also die IP-Adresse, die dem genutzten Internetanschluss zum Zeitpunkt des Besuchs zugewiesen ist, ist nicht Teil unserer Logfiles.&lt;br/&gt;&lt;h4&gt;Speicherung von IP-Adressen im Ausnahmefall&lt;/h4&gt;Wir behalten uns vor, im Einzelfall die IP-Adresse w&amp;auml;hrend der Nutzung von CameoNet aus Sicherheitsgr&amp;uuml;nden zu erheben und zu speichern. Das gilt insbesondere in F&amp;auml;llen, in denen wir oder andere Teilnehmer Grund zu der Annahme haben, dass ein Nutzerkonto missbraucht wird, oder in F&amp;auml;llen von DoS-Angriffen und vergleichbaren Szenarien.&lt;br/&gt;&lt;h4&gt;Cookies / lokal Storage/ pers&amp;ouml;nliche Schl&amp;uuml;ssel&lt;/h4&gt;cameoNet nutzt Session-Cookies oder &amp;auml;hnliche zuk&amp;uuml;nftige Technologien, die nach Ablauf der Sitzung gel&amp;ouml;scht werden. In einem Session-Cookie wird eine zuf&amp;auml;llig erzeugte eindeutige Identifikationsnummer abgelegt, eine sogenannte Session-ID. Au&amp;szlig;erdem enth&amp;auml;lt ein Cookie die Angabe &amp;uuml;ber seine Herkunft und die Speicherfrist. Diese Cookies k&amp;ouml;nnen keine anderen Daten speichern.&lt;br/&gt; Da es sich bei cameoNet um eine sichere Web-basierte Anwendung handelt, nutzt cameoNet den lokalen Speicher des Browsers zur verschl&amp;uuml;sselten Speicherung der pers&amp;ouml;nlichen Kommunikationsschl&amp;uuml;ssel.&lt;br/&gt;&lt;h4&gt;Mobile Benachrichtigungen&lt;/h4&gt;Wenn Sie CameoNet auf Ihrem Handy nutzen, setzt CameoNet unter Umst&amp;auml;nden die f&amp;uuml;r dieses Handy verf&amp;uuml;gbaren Benachrichtigungsdienste ein, um Sie &amp;uuml;ber eingehende Anrufe, Chats und sonstige Nachrichten zu informieren, wenn die CameoNet-Anwendung nicht gerade aktiv ausgef&amp;uuml;hrt bzw. genutzt wird. Benachrichtigungen an ein Apple-Ger&amp;auml;t erfolgen beispielsweise &amp;uuml;ber den Push-Benachrichtigungsdienst von Apple (APNS).&lt;br/&gt;Wenn Sie keine Benachrichtigungsdienste eines Drittanbieters nutzen m&amp;ouml;chten, um Benachrichtigungen &amp;uuml;ber eingehende CameoNet-Anrufe und Nachrichten zu erhalten, k&amp;ouml;nnen Sie dies unter Einstellungen&gt;Benachrichtigungen&gt;CameoNet deaktivieren.&lt;br/&gt;&lt;h4&gt;Systemnachrichten&lt;/h4&gt;cameoNet wird seine Nutzer gelegentlich um Informationen &amp;uuml;ber Ihre Erfahrungen bitten, die zur Qualit&amp;auml;tsmessung und -verbesserung eingesetzt werden. Sie sind zu keiner Zeit verpflichtet, diese Informationen zur Verf&amp;uuml;gung zu stellen.&lt;br/&gt;CameoNet wird sich eventuell an Sie wenden, um Ihnen Mitteilungen &amp;uuml;ber Fehler und Probleme zuzusenden.&lt;br/&gt;CameoNet sendet Ihnen m&amp;ouml;glicherweise Benachrichtigungen per E-Mail oder SMS, um Sie zu informieren, dass jemand versucht hat, Kontakt mit Ihnen aufzunehmen.&lt;br/&gt;Sie haben die M&amp;ouml;glichkeit, Benachrichtigungen abzubestellen. Bei E-Mails klicken Sie dazu in der erhaltenen E-Mail auf den Link „Abbestellen“ oder &amp;auml;ndern Sie die Benachrichtigungseinstellungen auf Ihrer Profilseite unter www.cameoNet.io.&lt;br/&gt;&lt;h4&gt;Datensicherheit&lt;/h4&gt;Wir bem&amp;uuml;hen uns, die Daten unserer Nutzer mit der gr&amp;ouml;&amp;szlig;tm&amp;ouml;glichen Sorgfalt gegen unbefugte Zugriffe zu sichern. Aus diesem Grund erfolgt der Transfer der Nutzerdaten nur in SSL-verschl&amp;uuml;sselter Form. Der mit der Datenspeicherung betraute Server steht in einem externen Rechenzentrum, das nur autorisierten Personen Zugang gew&amp;auml;hrt. Unsere Server stehen in Deutschland.&lt;br/&gt;Wir weisen darauf hin, das die Geheimhaltung der Login-Daten im Verantwortungsbereich des Nutzers liegt und das bei Kommunikation per E-Mail ein unbefugter Zugriff durch Dritte nicht vollst&amp;auml;ndig ausgeschlossen werden kann.&lt;br/&gt;Aus Sicherheitsgr&amp;uuml;nden behalten wir uns vor, Ihre unverschl&amp;uuml;sselte Kommunikation und Anh&amp;auml;nge automatisiert durch Virenscanner oder &amp;auml;hnliche technische Vorrichtungen laufen lassen. Unverschl&amp;uuml;sselte Kommunikation, in denen Viren oder typische, &amp;uuml;blicherweise zur Verbreitung von Viren genutzte Programme entdeckt werden, leitet unser System nicht weiter. Verschl&amp;uuml;sselte Kommunikation ist ausdr&amp;uuml;cklich von dieser Ma&amp;szlig;nahme nicht betroffen.&lt;br/&gt;&lt;h4&gt;&amp;Auml;nderung der Datenschutzhinweise&lt;/h4&gt;Wir behalten uns vor, diese Datenschutzerkl&amp;auml;rung zu aktualisieren. Im Falle von &amp;Auml;nderungen werden wir die Nutzer im gesetzlichen Rahmen hier&amp;uuml;ber informieren.&lt;br/&gt;&lt;h4&gt;Kontaktinformationen&lt;/h4&gt;cameoNet&lt;br/&gt;ein Dienst der memo Connect GmbH&lt;br/&gt;06108 Halle (Saale)/ Germany&lt;br/&gt;Amtsgericht Stendal HRB 20018&lt;br/&gt;Gesch&amp;auml;ftsf&amp;uuml;hrer: Michael Merz&lt;br/&gt;support@cameo.io&lt;br/&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature01.header">
+      <source>
+        cameoNet Profil - professionell auftreten!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="slider.slider03.text">
+      <source>
+        Offen f&amp;uuml;r externe Nutzer!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="seo.keywords">
+      <source>
+        Sichere Kommunikation, Verschl&amp;uuml;sselung, Sicherer Messenger, Android, iOS, Web, Windows Phone, RSA, AES, OpenSource
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.language.en">
+      <source>
+        en
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature03.text">
+      <source>
+        Mit Sicherheit wissen, dass das Dokument echt ist.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature07.header">
+      <source>
+        Delegationsmanagement - Stellvertretung m&amp;ouml;glich!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature06.header">
+      <source>
+        Anonymit&amp;auml;t - einfach mal inkognito!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="slider.slider04.text">
+      <source>
+        F&amp;uuml;r Organisationen und Unternehmen!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row5.col2">
+      <source>
+        &lt;div class=\4u\&gt;einige&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature09.text">
+      <source>
+        Erkennen, wann die Gegenseite anwesend ist.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.team.text">
+      <source>
+        
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="ab_form.message">
+      <source>
+        Bitte f&amp;uuml;llen Sie das folgende Feld nicht aus, Danke.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.platforms.checkbox.windows">
+      <source>
+        Windows
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.name">
+      <source>
+        Name
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link06">
+      <source>
+        Partner
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.how-to-join-anonymous.header">
+      <source>
+        Anonym anmelden, wie geht das?
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature06.text">
+      <source>
+        Variable Speichergr&amp;ouml;&amp;szlig;e Aufbewahrungszeit bis zu 10 Jahre
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="contact.name">
+      <source>
+        Name
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature06.header">
+      <source>
+        Archiv - viel und jahrelang!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="contact.header">
+      <source>
+        Kontakt-/Support Anfrage
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature05.header">
+      <source>
+        Kundenintegration - grenzenlos kommunizieren!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.using.checkbox.business">
+      <source>
+        gesch&amp;auml;ftlich
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link05.sub02">
+      <source>
+        Presse 2
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.header">
+      <source>
+        Anmelden
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.who-is-behind.text">
+      <source>
+        Das Team hinter cameoNet besteht aus erfahrenen Gründern und Entwicklern. Wir verfügen über reichlich Erfahrung mit Softwareprojekten im Medien- und Banken-Umfeld. Darunter sind publity, eine Online Plattform für Aktien Emissionen, und &lt;a href=\http://www.dailyme.de/\ target=\_blank\&gt;dailyme&lt;/a&gt;, eine mobile TV Plattform.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.success">
+      <source>
+        Die Registrierung war erfolgreich.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.footer">
+      <source>
+        
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.email">
+      <source>
+        E-Mail
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.text">
+      <source>
+        Organisationen und Unternehmen - viele gewinnbringende Zusatzfeatures!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature04.text">
+      <source>
+        Immer das richtige Profil zeigen.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature07.text">
+      <source>
+        Selbst bestimmen, mit wem man kommuniziert.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="slider.header">
+      <source>
+        Erste, integrierte mailing und messaging App:&lt;br/&gt; Einfach, sicher, offen. Auch f&amp;uuml;r Business.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row10.header">
+      <source>
+        &lt;div class=\4u row-label\&gt;Offenes Öko-System&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature04.header">
+      <source>
+        Authentifizierung - vertrauen k&amp;ouml;nnen!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature03.header">
+      <source>
+        Alle Endger&amp;auml;te - gleichzeitig nutzen!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row3.col1">
+      <source>
+        &lt;div class=\4u green-checkmark\&gt;&amp;#x2713&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="imprint.header">
+      <source>
+        Impressum
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.text">
+      <source>
+        Ja, ich m&amp;ouml;chte als einer der ersten dabei sein, wenn CameoNet online geht und schon als Beta-Tester mitmachen.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature07.header">
+      <source>
+        Keiner liest mit - auch wir nicht!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature08.header">
+      <source>
+        Kostenlos -  und ungestört!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.header">
+      <source>
+        Erste, integrierte mailing und messaging App:&lt;br/&gt; Einfach, sicher, offen. Auch f&amp;uuml;r Business.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="dataprivacy.header">
+      <source>
+        Datenschutzerkl&amp;auml;rung cameoNet
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row2.col1">
+      <source>
+        &lt;div class=\4u green-checkmark\&gt;&amp;#x2713&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.platforms.checkbox.blackberry">
+      <source>
+        Blackberry
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.fail">
+      <source>
+        Die Registrierung war nicht erfolgreich.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="website.name">
+      <source>
+        cameoNet
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="register.platforms.checkbox.android">
+      <source>
+        Android
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row5.col1">
+      <source>
+        &lt;div class=\4u green-checkmark\&gt;&amp;#x2713&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row1.col1">
+      <source>
+        &lt;div class=\4u green-checkmark\&gt;&amp;#x2713&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="contact.fail">
+      <source>
+        Das abschicken war nicht erfolgreich.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature08.header">
+      <source>
+        SMS - kostenoptimiert!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.col1.header">
+      <source>
+        cameoNet
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link04.sub02">
+      <source>
+        Support
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="contact.presubject">
+      <source>
+        [Kontaktformular]
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature01.text">
+      <source>
+        Mit Unternehmensprofil perfekt kommunizieren.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.footer.link">
+      <source>
+        cameoNet Support
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link08">
+      <source>
+        Pressespiegel
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row7.header">
+      <source>
+        &lt;div class=\4u row-label\&gt;Keine Sammlung oder Verwertung von Nutzerdaten&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.why-were-safe.text">
+      <source>
+        cameoNet nutzt bew&amp;auml;hrte Kryptologie (AES und RSA) und beweist mit Open Source, dass es auch seine Versprechen h&amp;auml;lt. cameoNet ist so sicher, dass selbst wir die Nachrichten und Anh&amp;auml;nge nicht lesen k&amp;ouml;nnen. Mehr technische Details sind &lt;a href=\http://support.cameonet.de/252443-technische-FAQ\ target=\_blank\&gt;hier&lt;/a&gt; zu finden, weitere Fragen beantwortet unser &lt;a href=\#contactForm\&gt;Support&lt;/a&gt;.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link04.sub03">
+      <source>
+        Kontakt
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link04.sub01">
+      <source>
+        FAQ
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row1.col2">
+      <source>
+        &lt;div class=\4u\&gt;einige&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row3.header">
+      <source>
+        &lt;div class=\4u row-label\&gt;Mehrere Endgeräte&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row10.col1">
+      <source>
+        &lt;div class=\4u green-checkmark\&gt;&amp;#x2713&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="imprint.text">
+      <source>
+        &lt;h4&gt;cameoNet&lt;/h4&gt;&lt;center&gt;ein Service der&lt;br/&gt;memo Connect GmbH (V.i.S.  § 5 TMG)&lt;br/&gt;Gro&amp;szlig;e Nikolaistra&amp;szlig;e 7, D-06108 Halle (Saale)&lt;br/&gt;&lt;br/&gt;Gesch&amp;auml;ftsf&amp;uuml;hrer: Michael Merz, Dr. Holger Haedrich&lt;/center&gt;&lt;h5&gt;Kontakt:&lt;/h5&gt;&lt;center&gt;Telefon:\t+49-345-21379665 &lt;br/&gt;Telefax:\t+49-345-213796659&lt;br/&gt; E-Mail:\tkontakt@cameonet.de&lt;br/&gt;&lt;br/&gt;PGP Fingerprint: 1E26 38C8 271C 66A5 2806 16CA 29DF 8C76 0B9A 34FB&lt;br/&gt;Steuernummer: 110/105/46046&lt;br/&gt;USt.-IdNr.: DE293144732&lt;br/&gt;Amtsgericht Stendal HRB 20018&lt;br/&gt;&lt;/center&gt;&lt;h4&gt;Haftungsausschluss (Disclaimer)&lt;/h4&gt;&lt;h5&gt;Haftung f&amp;uuml;r Inhalte&lt;/h5&gt;Als Diensteanbieter sind wir gem&amp;auml;&amp;szlig; § 7 Abs.1 TMG f&amp;uuml;r eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, &amp;uuml;bermittelte oder gespeicherte fremde Informationen zu &amp;uuml;berwachen oder nach Umst&amp;auml;nden zu forschen, die auf eine rechtswidrige T&amp;auml;tigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unber&amp;uuml;hrt. Eine diesbez&amp;uuml;gliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung m&amp;ouml;glich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;h5&gt;Haftung f&amp;uuml;r Links&lt;/h5&gt;Unser Angebot enth&amp;auml;lt Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb k&amp;ouml;nnen wir f&amp;uuml;r diese fremden Inhalte auch keine Gew&amp;auml;hr &amp;uuml;bernehmen. F&amp;uuml;r die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf m&amp;ouml;gliche Rechtsverst&amp;ouml;&amp;szlig;e &amp;uuml;berpr&amp;uuml;ft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;h5&gt;Urheberrecht&lt;/h5&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielf&amp;auml;ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung au&amp;szlig;erhalb der Grenzen des Urheberrechts bed&amp;uuml;rfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur f&amp;uuml;r den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;br/&gt;
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="slider.slider02.text">
+      <source>
+        Auf allen Endger&amp;auml;ten!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature03.text">
+      <source>
+        Desktop/Tablet/Smartphone mit einem Account.
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="business.feature02.header">
+      <source>
+        Mitarbeiter - mit Identit&amp;auml;ten!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature02.header">
+      <source>
+        OpenSource - 100% transparent!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature05.header">
+      <source>
+        Offene Kommunikation!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="navigation.links.link07">
+      <source>
+        Blog
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.how-to-sign-in.header">
+      <source>
+        Wie melde ich mich an?
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="functions.feature01.header">
+      <source>
+        Verschl&amp;uuml;sselt - einfach sicher!
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="faq.what-about-files.header">
+      <source>
+        Kann ich mit cameoNet auch Dateien versenden?
+      </source>
+      <target/>
+    </trans-unit><trans-unit id="compare.row6.col1">
+      <source>
+        &lt;div class=\4u green-checkmark\&gt;&amp;#x2713&lt;/div&gt;
+      </source>
+      <target/>
+    </trans-unit></body>
+        </file>
+      </xliff>
